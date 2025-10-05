@@ -7,7 +7,7 @@ The goal of this project is to transform raw survey data into meaningful insight
 
 ## 📷 Dashboard Preview
 
-![Dashboard Screenshot](f7da7175-728a-425e-b3ba-4bb5bb6dd35a.png)
+<img width="1356" height="769" alt="Image" src="https://github.com/user-attachments/assets/a5b9a2c9-f024-4fdb-b2bd-1028ecc3774b" />
 
 ---
 
